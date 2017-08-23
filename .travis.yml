@@ -11,5 +11,5 @@ after_success:
       - emkristi@stud.ntnu.no
       - kimia.abtahi@gmail.com
       - dina@rosvoll.no
-    on_success: never # default: chane
+    on_success: never # default: change
     on_failure: always # default: always
